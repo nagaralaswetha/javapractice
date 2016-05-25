@@ -2,7 +2,7 @@
 public class javapractice {
 
 	public static void main(String[] args) {
-		System.out.println("java programming");
+		System.out.println("hello world");
 	}
 
 }
